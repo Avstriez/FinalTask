@@ -1,4 +1,4 @@
-﻿string[] arrayFirst = new string[5] {"12345", "asdf", "123", "as", "a"};
+﻿string[] arrayFirst = new string[5] { "12345", "asdf", "123", "as", "a" };
 string[] arraySecond = new string[arrayFirst.Length];
 
 void ArrayTwo(string[] arrayFirst, string[] arraySecond)
